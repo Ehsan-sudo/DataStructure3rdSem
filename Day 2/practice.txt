@@ -1,0 +1,8 @@
+simple Array program
+append in Array
+----------------
+assignment
+----------------
+add by index
+pop
+remove by index
